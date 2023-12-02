@@ -1,0 +1,11 @@
+* 6961941 (HEAD -> Accomodation, origin/main, origin/HEAD, origin/Accomodation, main) Aggiustati dei testi
+* 2ebdca2 (tag: v1.2.0, tag: v1.1, tag: v1.0) Risoluzione secondo problema immagine nel js
+* 356644e Risoluzione problema immagine
+* 864776b Aggiunta js
+* 168a2e0 Aggiunta css
+*   ea01901 Merge branch 'main' into Accomodation
+|\  
+| * 59cbab6 feat: Initial setup (main-page)
+* | 4c0530f Html Agriturismo
+|/  
+* 1f968dc Initial commit
