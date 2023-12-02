@@ -13,12 +13,12 @@ nella barra di navigazione ho messo ad esempio così:        ```html       <a hr
 alex nella cartella page devo mettere anche il mio js e css?
 
 se vogliamo essere ordinati dovremmo fare verifica/
-                                              - index.html
-                                              - script
-                                              - style
-                                              - pages/ 
-                                                  - Accomodation/
-                                                      - accomodation.html
-                                                      - style
-                                                  -Altro/
-                                                      - ciao.html
+                                              - index.html<br>
+                                              - script<br>
+                                              - style<br>
+                                              - pages/ <br>
+                                                  - Accomodation/<br>
+                                                      - accomodation.html<br>
+                                                      - style<br>
+                                                  -Altro/<br>
+                                                      - ciao.html<br>
