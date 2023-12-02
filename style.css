@@ -5,6 +5,17 @@
   padding: 0;
 }
 
+p {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+
 nav {
   display: flex;
   flex-direction: row;
@@ -23,18 +34,43 @@ nav img {
 
 nav ul {
   margin-left: auto;
-  margin-right: 1rem;
+  margin-right: 1.5rem;
 
   word-spacing: 1rem;
 }
 
 nav ul a {
   text-decoration: none;
-  color: black;
-  font-family: 'Poppins', sans-serif;
-
 }
 
 nav ul a:hover {
   border-bottom: 1px solid black;
+}
+
+main {
+  margin-top: 10vh;
+
+  display: flex;
+  flex-direction: row;
+
+  width: 100%;
+}
+
+main .wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .wrapper p  {
+  width: 50%;
+}
+
+main img {
+  width: 50%;
+
+  margin-left: 2rem;
+
+  border-radius: 5rem;
 }
