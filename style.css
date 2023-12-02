@@ -1,5 +1,5 @@
 h1{
-    color:darkcyan;
+    color:darkblue;
     text-align-last: center;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
@@ -14,14 +14,14 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color:blueviolet;
     color: #fff;
     text-align: center;
     padding: 1em;
 }
 
 nav {
-    background-color: #444;
+    background-color:darkmagenta;
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -32,8 +32,8 @@ section {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: lightgreen;
+    color: black;
     text-align: center;
     padding: 1em;
     position: fixed;
