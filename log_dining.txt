@@ -1,0 +1,6 @@
+* 01be048 (HEAD -> Dining, tag: v1.1.1-Ristorante, origin/Dining) feat: Added js animation and footer
+* f544d95 (tag: v1.0.1-Ristorante) fix: Fixed index.html and style.css
+* 26c7665 (tag: v1.0.0-Ristorante) feat: Finished style.css
+* aa68f93 feat: Added some style
+* 59cbab6 (main) feat: Initial setup (main-page)
+* 1f968dc Initial commit
