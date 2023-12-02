@@ -24,3 +24,4 @@ se vogliamo essere ordinati dovremmo fare verifica/
                                                       - ciao.html<br>
 
 msg to all: secondo voi se ho creato un file index2 solo per scriverci vari pezzi a caso per poi copiarli non calma uno a uno nel file principale e poi l'ho cancellato... al prof risulta un problema?
+msg to all: non penso
