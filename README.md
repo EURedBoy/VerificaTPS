@@ -10,3 +10,4 @@ msg to all : io ho messo i classici, se vuoi pulla e scrivi dentro quelli sennò
 
 
 nella barra di navigazione ho messo ad esempio così:        ```html       <a href="accomodation.html">Contatti</a>```   giusto?
+alex nella cartella page devo mettere anche il mio js e css?
