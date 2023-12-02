@@ -10,6 +10,14 @@ p {
   font-family: 'Poppins', sans-serif;
 }
 
+h1 {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+
+  font-size: 7rem;
+  text-align: center;
+}
+
 a {
   color: black;
   font-family: 'Poppins', sans-serif;
@@ -47,7 +55,7 @@ nav ul a:hover {
   border-bottom: 1px solid black;
 }
 
-main {
+section {
   margin-top: 10vh;
 
   display: flex;
@@ -56,18 +64,18 @@ main {
   width: 100%;
 }
 
-main .wrapper {
+section .wrapper {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-main .wrapper p  {
+section .wrapper p  {
   width: 50%;
 }
 
-main img {
+section img {
   width: 50%;
 
   margin-left: 2rem;
