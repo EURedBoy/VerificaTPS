@@ -1,0 +1,10 @@
+* 6dd03b8 (HEAD -> Wellbeing, origin/Wellbeing) scambio posiz elementi nella pagina
+* 8d1fee5 aggiunto il file javascript - script.js
+* cf2c728 Aggiunto parte su html per poter fare uno slider di immagini, come svolto come progetto in classe
+* 5d5c074 cancellato un file di supporto html
+* 3001af4 ottimizzazione css
+* 36cb1f1 css quasi completato e aggiunto anche un footer
+* 9af9081 aggiunta descrizione
+* 9546be4 aggiunta intestazione e immagine
+* ff2b4eb creata struttura inziale
+* 1f968dc Initial commit
